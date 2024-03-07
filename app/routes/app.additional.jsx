@@ -9,6 +9,12 @@ import {
   BlockStack,
 } from "@shopify/polaris";
 
+import { extractColors } from 'extract-colors'
+
+const src = "my-image.jpg"
+
+
+
 export default function AdditionalPage() {
   return (
     <Page>

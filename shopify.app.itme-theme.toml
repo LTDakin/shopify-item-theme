@@ -2,7 +2,7 @@
 
 client_id = "925cc071d9251e32f4bac04a2677291b"
 name = "Itme-Theme"
-application_url = "https://stamps-remark-series-strictly.trycloudflare.com"
+application_url = "https://entitled-somebody-giants-prince.trycloudflare.com"
 embedded = true
 
 [build]
@@ -15,9 +15,9 @@ scopes = ""
 
 [auth]
 redirect_urls = [
-  "https://stamps-remark-series-strictly.trycloudflare.com/auth/callback",
-  "https://stamps-remark-series-strictly.trycloudflare.com/auth/shopify/callback",
-  "https://stamps-remark-series-strictly.trycloudflare.com/api/auth/callback"
+  "https://entitled-somebody-giants-prince.trycloudflare.com/auth/callback",
+  "https://entitled-somebody-giants-prince.trycloudflare.com/auth/shopify/callback",
+  "https://entitled-somebody-giants-prince.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
