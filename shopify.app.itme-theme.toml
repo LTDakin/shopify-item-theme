@@ -2,7 +2,7 @@
 
 client_id = "925cc071d9251e32f4bac04a2677291b"
 name = "Itme-Theme"
-application_url = "https://layers-sierra-king-completed.trycloudflare.com"
+application_url = "https://dvd-ontario-vids-secret.trycloudflare.com"
 embedded = true
 
 [build]
@@ -15,9 +15,9 @@ scopes = ""
 
 [auth]
 redirect_urls = [
-  "https://layers-sierra-king-completed.trycloudflare.com/auth/callback",
-  "https://layers-sierra-king-completed.trycloudflare.com/auth/shopify/callback",
-  "https://layers-sierra-king-completed.trycloudflare.com/api/auth/callback"
+  "https://dvd-ontario-vids-secret.trycloudflare.com/auth/callback",
+  "https://dvd-ontario-vids-secret.trycloudflare.com/auth/shopify/callback",
+  "https://dvd-ontario-vids-secret.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]

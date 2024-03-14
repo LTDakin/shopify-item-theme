@@ -10,7 +10,7 @@ import {
 } from "@shopify/polaris";
 
 import { extractColors } from 'extract-colors'
-import imgVar from 'public\assets\laketahoe.jpg'
+import imgVar from 'public/assets/laketahoe.jpg'
 const src = "my-image.jpg"
 
 
